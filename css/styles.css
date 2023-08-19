@@ -34,11 +34,8 @@ letter-spacing: 0.02em;
 color: #2E2F42;
 }
 
-.page-nav .link:hover {
-    color: #404bbf;
-}
-
-.page-nav .link:focus {
+.link:hover,
+.link:focus {
     color: #404bbf;
 }
 
@@ -54,11 +51,9 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.page-adress .page-contacts:hover {
-    color: #404bbf;
-}
-
-.page-adress .page-contacts:focus {
+.page-contacts:focus,
+.page-contacts:hover
+ {
     color: #404bbf;
 }
 
@@ -86,11 +81,8 @@ color: #FFFFFF;
 cursor: pointer;
 }
 
-.first-section .button:hover {
-    background-color: #404BBF;
-}
-
-.first-section .button:focus {
+.button:hover,
+.button:focus {
     background-color: #404BBF;
 }
 
