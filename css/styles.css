@@ -38,7 +38,7 @@ color: #2E2F42;
     color: #404bbf;
 }
 
-.page-nav .link:active {
+.page-nav .link:focus {
     color: #404bbf;
 }
 
@@ -58,7 +58,7 @@ color: #434455;
     color: #404bbf;
 }
 
-.page-adress .page-contacts:active {
+.page-adress .page-contacts:focus {
     color: #404bbf;
 }
 
@@ -90,7 +90,7 @@ cursor: pointer;
     background-color: #404BBF;
 }
 
-.first-section .button:active {
+.first-section .button:focus {
     background-color: #404BBF;
 }
 
